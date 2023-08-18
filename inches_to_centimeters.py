@@ -1,3 +1,3 @@
-a=int(input())
-c=a*2.54
-print(f"{c:.2f}")
+h=int(input())
+cm=h*2.54
+print(f"{cm:.2f}")

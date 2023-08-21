@@ -1,4 +1,4 @@
 a=int(input())
-c=a//60
+h=a//60
 m=a%60
-print(f"{c} Hour(s) {m} Minute(s)")
+print(f"{h} Hour(s) {m} Minute(s)")

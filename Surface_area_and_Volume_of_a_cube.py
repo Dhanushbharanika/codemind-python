@@ -1,4 +1,4 @@
-r=int(input())
-a=6*r**2 
-p=r**3
-print(f"Surface area = {a} and Volume = {p}")
+s=int(input())
+su=6*s**2
+v=s**3
+print(f"Surface area = {su} and Volume = {v}")

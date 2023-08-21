@@ -1,3 +1,3 @@
-pd,k,l=map(int,input().split())
-c=(3*pd)-(k+l)
+av,a,b=map(int,input().split())
+c=(3*av)-(a+b)
 print(c)

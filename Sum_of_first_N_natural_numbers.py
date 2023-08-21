@@ -1,8 +1,7 @@
 a=int(input())
-s=0
+sum = 0
 i=1
-
-while i<=a :
-     s+=i
-     i+=1
-print(s)
+while i<=a:
+    sum +=i
+    i+=1
+print(sum)

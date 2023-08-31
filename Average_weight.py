@@ -1,3 +1,3 @@
-av,a,b=map(int,input().split())
-c=(3*av)-(a+b)
-print(c)
+avg,b1,b2 = map(int,input().split())
+b3 = (avg*3)-(b1+b2)
+print(b3)

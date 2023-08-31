@@ -1,6 +1,5 @@
-X=int(input())
-Y=int(input())
-Z=int(input())
-a=(Z-Y)//X
-print(f"{a}")
-    
+x=int(input())
+y=int(input())
+z=int(input())
+n=(z-y)//x
+print(n)
